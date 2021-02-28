@@ -1,1 +1,2 @@
-# Spam-Detection
+# Spam-Classifier
+Spam filter using Naive Bayes Algorithm
